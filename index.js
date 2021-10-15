@@ -1,4 +1,3 @@
-import Page from "./Page.js";
 import Component from "./Component.js";
 
 const pageBody = document.querySelector("body");
